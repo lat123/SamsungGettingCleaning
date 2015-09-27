@@ -3,6 +3,8 @@ title: "CodeBook - tidydata.txt"
 output: html_document
 ---
 
+# CodeBook - tidydata.txt
+
 ## Source
 The UCI HAR Dataset is avaiable at: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
